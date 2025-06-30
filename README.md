@@ -1,3 +1,4 @@
+![logo](https://github.com/himani-data/himani-data/blob/main/Black%20and%20Yellow%20Web%20Developer%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Himani Verma</h1>
 <h3 align="center">🎯 Passionate about uncovering insights through Data Analysis</h3>
 
