@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Himani Verma</h1>
 <h3 align="center">🎯 Passionate about uncovering insights through Data Analysis</h3>
 
-<img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSs9bwV8eRkJiIxH1IOiH9rk7tykqF92ahaM-38pZUyArldckN2o6FHllk&s">
+<img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQq8MrifV7w3fH7sPvmdJ1Fv33JQqQaODPGkQ&s">
 
 
 - 🌱 I’m Aspiring **Data Analyst** actively building expertise in **Python, SQL, Excel, and Tableau** — with a strong focus on **data-driven storytelling, dashboards, and real-world insights**.
