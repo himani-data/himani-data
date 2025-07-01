@@ -5,8 +5,8 @@
 <img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSs9bwV8eRkJiIxH1IOiH9rk7tykqF92ahaM-38pZUyArldckN2o6FHllk&s">
 
 
-- 🌱 I’m currently learning **Data Analytics with a focus on Python, Excel, SQL, Tableau, and storytelling with data.**
-
+- 🌱 I’m Aspiring **Data Analyst** actively building expertise in **Python, SQL, Excel, and Tableau** — with a strong focus on **data-driven storytelling, dashboards, and real-world insights**.
+  
 - 👨‍💻 All of my projects are available at [https://github.com/himani-data/himani-data.git](https://github.com/himani-data/himani-data.git)
 
 - 💬 Ask me about **Python • Excel • Tableau • Data Cleaning • EDA • Dashboards • GitHub • Portfolio Setup**
@@ -15,7 +15,7 @@
 
 - ⚡ Fun fact **Extra Curious untill burnout 🔥**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Let's Connect:</h3>
 <p align="left">
 </p>
 
