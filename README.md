@@ -5,8 +5,15 @@
 <img align="right" alt="coding" width="500" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQq8MrifV7w3fH7sPvmdJ1Fv33JQqQaODPGkQ&s">
 
 
-- 🌱 I’m Aspiring **Data Analyst** actively building expertise in **Python, SQL, Excel, and Tableau** — with a strong focus on **data-driven storytelling, dashboards, and real-world insights**.
-  
+🚀 **I’m an aspiring Software Developer and Coder**, building projects across **frontend**, **backend**, and **databases**, with a growing interest in **full-stack development**.  
+Alongside this, I’m also developing skills in **Data Analysis**, using tools like **Python**, **SQL**, **Excel**, and **Tableau** to draw meaningful insights and build interactive dashboards.
+
+💻 I’m eager to explore **open-source collaboration**, aiming to contribute to real-world projects and learn from the global developer community.
+
+🎯 My goal is to create applications that not only work efficiently but also deliver valuable, **data-driven insights**.
+
+  - 👨‍💻 All of my projects are available at [My GitHub Profile](https://github.com/himani-data)
+
 - 👨‍💻 All of my projects are available at [https://github.com/himani-data/himani-data.git](https://github.com/himani-data/himani-data.git)
 
 - 💬 Ask me about **Python • Excel • Tableau • Data Cleaning • EDA • Dashboards • GitHub • Portfolio Setup**
