@@ -1,30 +1,72 @@
 ![logo](https://github.com/himani-data/himani-data/blob/main/Black%20and%20Yellow%20Web%20Developer%20LinkedIn%20Banner.png)
+"C:\Users\mahen\Downloads\Black and Yellow Web Developer LinkedIn Banner (2).png"
+
 <h1 align="center">Hi 👋, I'm Himani Verma</h1>
-<h3 align="center">🎯 Passionate about uncovering insights through Data Analysis</h3>
+<h3 align="center">🚀 Aspiring Software Developer | Data Analyst | Coder</h3>
 
-<img align="right" alt="coding" width="500" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQq8MrifV7w3fH7sPvmdJ1Fv33JQqQaODPGkQ&s">
+<img align="right" alt="coding" width="450" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQq8MrifV7w3fH7sPvmdJ1Fv33JQqQaODPGkQ&s">
 
+🚀 **I’m a Software Developer in progress**, working on projects across **Frontend**, **Backend**, and **Databases**, with a focus on **Full-Stack Development**.
 
-🚀 **I’m an aspiring Software Developer and Coder**, building projects across **frontend**, **backend**, and **databases**, with a growing interest in **full-stack development**.  
-Alongside this, I’m also developing skills in **Data Analysis**, using tools like **Python**, **SQL**, **Excel**, and **Tableau** to draw meaningful insights and build interactive dashboards.
+📊 At the same time, I’m building expertise in **Data Analysis**, using tools like **Python**, **SQL**, **Excel**, and **Tableau** to generate meaningful insights and create interactive dashboards.
 
-💻 I’m eager to explore **open-source collaboration**, aiming to contribute to real-world projects and learn from the global developer community.
+💻 Actively exploring **open-source collaboration** to contribute to real-world projects and learn from the global developer community.
 
-🎯 My goal is to create applications that not only work efficiently but also deliver valuable, **data-driven insights**.
+🎯 My goal is to build applications that are not only efficient but also capable of delivering **data-driven insights**.
 
-  - 👨‍💻 All of my projects are available at [My GitHub Profile](https://github.com/himani-data)
+---
 
-- 👨‍💻 All of my projects are available at [https://github.com/himani-data/himani-data.git](https://github.com/himani-data/himani-data.git)
+- 👨‍💻 Explore my work at: [My GitHub Profile](https://github.com/himani-data)
 
-- 💬 Ask me about **Python • Excel • Tableau • Data Cleaning • EDA • Dashboards • GitHub • Portfolio Setup**
+- 💬 Ask me about: **Frontend • Backend • Full-Stack Development • Python • SQL • Excel • Tableau • EDA • GitHub • Portfolio Setup**
 
-- 📫 How to reach me **www.linkedin.com/in/himaniverma2604**
+- 📫 Connect on LinkedIn: [www.linkedin.com/in/himaniverma2604](https://www.linkedin.com/in/himaniverma2604)
 
-- ⚡ Fun fact **Extra Curious untill burnout 🔥**
+- ⚡ Fun Fact: _“Extra curious until burnout 🔥”_
 
-<h3 align="left">Let's Connect:</h3>
-<p align="left">
+---
+
+<h3 align="center">🚀 Languages & Tools</h3>
+
+<p align="center">
+  <!-- Row 1 -->
+  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50" height="50"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<p align="center">
+  <!-- Row 2 -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="SQL" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png" alt="Excel" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="Power BI" width="50" height="50"/>
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="Azure" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="50" height="50"/>
+ 
+</p>
+
+
+
+
+---
+
+<h3 align="center">🚀 Let's Connect!</h3>
+<p align="center">
+<a href="https://www.linkedin.com/in/himaniverma2604" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+</a>
+<a href="https://github.com/himani-data" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white" alt="GitHub Badge"/>
+</a>
+</p>
