@@ -7,7 +7,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2000&pause=1000&color=F7C52B&center=true&vCenter=true&width=435&lines=Student+%F0%9F%93%9A;Developer+%F0%9F%92%BB;Learner+%F0%9F%8C%8A;Tech+Explorer+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
-<h3 align="center">🚀 Aspiring Software Developer | Data Analyst | Coder</h3>
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=%F0%9F%9A%80+Aspiring+Software+Development" alt="Typing SVG" />
+</p>
 
 <img align="right" alt="coding" width="450" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQq8MrifV7w3fH7sPvmdJ1Fv33JQqQaODPGkQ&s">
 
