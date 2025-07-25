@@ -1,5 +1,12 @@
 ![logo](https://github.com/himani-data/himani-data/blob/main/Black%20and%20Yellow%20Web%20Developer%20LinkedIn%20Banner%20(3).png)
-<h1 align="center">Hi 👋, I'm Himani Verma</h1>
+
+<h1 align="center">Hi there! <img src="https://em-content.zobj.net/source/microsoft-teams/337/waving-hand_1f44b.png" width="30px"/> I'm Himani Verma </h1>
+
+<!-- Typing SVG animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2000&pause=1000&color=F7C52B&center=true&vCenter=true&width=435&lines=Student+%F0%9F%93%9A;Developer+%F0%9F%92%BB;Learner+%F0%9F%8C%8A;Tech+Explorer+%F0%9F%9A%80" alt="Typing SVG" />
+</p>
+
 <h3 align="center">🚀 Aspiring Software Developer | Data Analyst | Coder</h3>
 
 <img align="right" alt="coding" width="450" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQq8MrifV7w3fH7sPvmdJ1Fv33JQqQaODPGkQ&s">
@@ -28,7 +35,6 @@
 
 <p align="center">
   <!-- Row 1 -->
-  
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="50" height="50"/>
@@ -47,17 +53,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="50" height="50"/>
   <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png" alt="Excel" width="50" height="50"/>
   <img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="Power BI" width="50" height="50"/>
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="Azure" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="50" height="50"/>
- 
 </p>
 
-
-
-
 ---
+
 <h3 align="center">🚀 Let's Connect!</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/himaniverma2604" target="_blank">
@@ -71,14 +74,7 @@
   <a href="https://www.instagram.com/shree_ji676/" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" title="Instagram" alt="Instagram" width="40" height="40"/>
   </a>
-  
   <a href="https://www.facebook.com/profile.php?id=100069757786480" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" title="Facebook" alt="Facebook" width="40" height="40"/>
-</a>
-
-
-
-
+  </a>
 </p>
-
-
