@@ -13,7 +13,7 @@
 
 <img align="right" alt="coding" width="450" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQq8MrifV7w3fH7sPvmdJ1Fv33JQqQaODPGkQ&s">
 
-🚀 **I’m a Software Developer in progress**, working on projects across **Frontend**, **Backend**, and **Databases**, with a focus on **Full-Stack Development**.
+🚀 **I’m Aspiring Developments**, working on projects across **Frontend**, **Backend**, and **Databases**, with a focus on **Full-Stack Development**.
 
 📊 At the same time, I’m building expertise in **Data Analysis**, using tools like **Python**, **SQL**, **Excel**, and **Tableau** to generate meaningful insights and create interactive dashboards.
 
